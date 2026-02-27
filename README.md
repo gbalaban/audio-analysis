@@ -1,2 +1,2 @@
-# spinmixpro-audio-analysis
+# audio-analysis
 Analyse audio
